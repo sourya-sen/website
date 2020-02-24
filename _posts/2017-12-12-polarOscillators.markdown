@@ -3,7 +3,7 @@ layout: post
 title: "Polar Oscillators"
 date: 2017-12-12
 description:
-image: /assets/images/polarOsc.png
+image: /assets/images/polarOsc.jpg
 author: Sourya Sen
 tags:
   - Prototype

@@ -3,7 +3,7 @@ layout: post
 title: "Pattern Noise (2017)"
 date: 2017-12-15
 description:
-image: /assets/images/patternnoise.png
+image: /assets/images/patternnoise.jpg
 author: Sourya Sen
 tags:
   - Live Performance
@@ -18,4 +18,4 @@ Pattern Noise was a series of AV performances in 2017 undertaken with DIY noise 
 
 Pattern Noise was performed at at Aaniaalto'17 (Helsinki), LPM 2017 (Amsterdam), Kohina 2017 (Kokkola, FI) and Generate 2017 (Tubingen, DE).
 
-![Pattern Noise closeup](/assets/images/patternnoise2.png)
+![Pattern Noise closeup](/assets/images/patternnoise2.jpg)
