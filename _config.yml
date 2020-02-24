@@ -8,9 +8,9 @@ name: Sourya Sen
 title: Sourya Sen (Oblique)
 description: >
   Personal and portfolio website of Sourya Sen (Oblique).
-url: ayruos.in
+url: /
 twitter_username: ayruos
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/img-contact.jpg
 social:
   - name: twitter
     url: https://twitter.com/ayruos
