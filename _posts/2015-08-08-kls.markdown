@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Krunk Live Sessions"
+date: 2015-08-08
+description:
+image: /assets/images/kls.jpg
+author: Sourya Sen
+tags:
+  - Visuals
+  - VJing
+  - live
+  - Krunk
+---
+
+Developed and performed the visuals for two live studio sessions called Krunk Live Sessions, collaborating with Madboy/Mink and Your Chin. These were broadcast on Pepsi MTV Indies.
+
+Full episodes below.
+
+<iframe src="https://player.vimeo.com/video/194507733" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/194507733">Superdry Krunk LIVE Sessions Episode 3 MADBOYMINK With Oblique</a> from <a href="https://vimeo.com/ayruos">Sourya Sen/Oblique</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/194507487" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/194507487">Superdry Krunk LIVE Sessions Episode 2 Aqua Dominatrix &amp; Your Chin with Wolves and Oblique</a> from <a href="https://vimeo.com/ayruos">Sourya Sen/Oblique</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
