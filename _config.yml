@@ -8,7 +8,7 @@ name: Sourya Sen
 title: Sourya Sen (Oblique)
 description: >
   Personal and portfolio website of Sourya Sen (Oblique).
-url: http://ayruos.in
+url: http://ayruos.com
 twitter_username: ayruos
 default_img: /assets/images/img-contact.jpg
 social:
@@ -41,7 +41,7 @@ mailchimp_input: b_0eda558109a704ce55cef6303_0e8e938421
 author:
   - name: Sourya Sen
     bio: Sourya Sen/Oblique is an audiovisual artist, creative coder and hardware hacker. His interests lie in generative visuals, hybrid instruments and finding emergent patterns at the intersection of art and technology, chaos and order, and noise and music. Coming from a background in traditional filmmaking and VJing, he’s currently expanding his practice to explore the intersecting points of behaviour that are away from traditional notions of audiovisual synchronicity, content creation and interaction using a host of tools, platforms and techniques.
-    url: http://ayruos.in
+    url: http://ayruos.com
 
 # Pagination settings
 pagination:
@@ -67,7 +67,7 @@ autopages:
     slugify:
       mode: raw
       cased: true
-      
+
 
 # Build settings
 markdown: kramdown
