@@ -32,8 +32,8 @@
     }
 
     @media (min-width: $mq-med) {
-      height: calc(100vh - 3em);
-      min-height: 36em;
+      height: calc(50vh - 3em);
+      min-height: 48em;
     }
 
     & > * {

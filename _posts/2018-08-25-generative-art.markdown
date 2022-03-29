@@ -3,8 +3,7 @@ layout: post
 title: "Generative Art (2019)"
 date: 2018-09-01
 description:
-image: /assets/images/img-genarts.jpg
-author: Sourya Sen
+image: /assets/images/genlines02.jpg
 tags:
   - openFrameworks
   - Generative Art

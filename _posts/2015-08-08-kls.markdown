@@ -3,7 +3,7 @@ layout: post
 title: "Krunk Live Sessions"
 date: 2015-08-08
 description:
-image: /assets/images/kls.jpg
+image: /assets/images/kls2.jpg
 author: Sourya Sen
 tags:
   - Visuals

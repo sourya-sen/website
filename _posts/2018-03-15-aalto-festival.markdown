@@ -12,7 +12,7 @@ tags:
   - Visuals
 ---
 
-I was brought into this project to animate the elements developed by [Anna Muchenikova](https://annamuchenikova.com) and [Babi Brasileiro](http://babibrasileiro.com) as part of the creative team for Aalto Festival 2018. These animated assets were used on the event website (developed by Kokku, which was also featured as site of the day on [Mindsparkle Mag](https://mindsparklemag.com)) as well as in screens across various locations.
+I was brought into this project to animate the elements developed by [Anna Muchenikova](http://www.annamudesign.com/) and [Babi Brasileiro](http://babibrasileiro.com) as part of the creative team for Aalto Festival 2018. These animated assets were used on the event website (developed by Kokku, which was also featured as site of the day on [Mindsparkle Mag](https://mindsparklemag.com)) as well as in screens across various locations.
 
 <iframe src="https://player.vimeo.com/video/312682310?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
