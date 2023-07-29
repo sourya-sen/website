@@ -22,18 +22,10 @@ carousels:
 Live visuals design and performance for Sandunes (Live).
 
 List of performances include:
-The Toxic Positivity Tour (Mumbai, Pune, Delhi and Hyderabad), Lollapalooza India, SAUCE Festival and Jameson Connects. BOO.
+The Toxic Positivity Tour (Mumbai, Pune, Delhi and Hyderabad), Lollapalooza India, SAUCE Festival and Jameson Connects.
 
-<!-- {% include carousel.html height="50" unit="%" duration="7" number="1" %} -->
-
-<img src = "/assets/images/genform00.jpg" />
-
-<img src = “/assets/images/genform00.jpg” />
-
-<img src = “/assets/images/sandunesviz/Sandunes_TPT_Lolla23-28.jpg”>
-
-<img src = “/assets/images/sandunesviz/Sandunes_TPT_Lolla23-67.jpg”>
-
-<img src = “/assets/images/sandunesviz/Sandunes_TPT_Mumbai-23.jpg”>
- 
-<img src=“/assets/images/sandunesviz/Sandunes_TPT_Pune-9.jpg”>
+{% slider bullets %}
+  ![alt text 1](/assets/images/sandunesviz/Sandunes_TPT_Lolla23-28.jpg)
+  ![alt text 2](/assets/images/sandunesviz/Sandunes_TPT_Lolla23-67.jpg)
+  ![alt text 3](/assets/images/sandunesviz/Sandunes_TPT_Pune-9.jpg)
+{% endslider %}
