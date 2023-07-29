@@ -3,7 +3,7 @@ layout: post
 title: "Hybrid Video Synthesiser"
 date: 2019-07-15
 description:
-image: /assets/images/img-hvs.jpg
+image: /assets/images/frontpanel.jpeg
 author: Sourya Sen
 tags:
   - openFrameworks

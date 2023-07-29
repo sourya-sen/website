@@ -14,7 +14,7 @@ gem "jekyll", "~> 3.8.5"
 group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-sitemap"
-  gem 'jekyll-compress-images'
+  gem 'jekyll-compress-images', :git => 'https://github.com/valerijaspasojevic/jekyll-compress-images.git'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -91,3 +91,10 @@ exclude:
   - README.md
 
 iis_slider_array: []
+
+# Compress Images
+imageoptim:
+  svgo: false
+
+compress_images:
+  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
