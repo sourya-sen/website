@@ -4,10 +4,11 @@ title: "ofxCurve"
 date: 2018-08-20
 description:
 image: /assets/images/img-ofxcurve.jpg
+thumbnail: /assets/thumbs/ofxcurve-thumb.jpg
 author: Sourya Sen
 tags:
   - openFrameworks
-  - addon
+  - addons
   - open source
 ---
 

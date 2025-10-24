@@ -25,8 +25,8 @@ social:
 
 
 # Contact settings
-contact_img: /assets/images/img-contact.jpg
-formcarry: https://formcarry.com/s/noD6i_0pkZ
+#contact_img: /assets/images/img-contact.jpg
+#formcarry: https://formcarry.com/s/noD6i_0pkZ
 
 # Disqus settings
 #disqus: test-apkdzgmqhj
@@ -35,13 +35,13 @@ formcarry: https://formcarry.com/s/noD6i_0pkZ
 #mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
 #mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
-mailchimp_action: https://gmail.us4.list-manage.com/subscribe/post-json?u=0eda558109a704ce55cef6303&amp;id=0e8e938421
-mailchimp_input: b_0eda558109a704ce55cef6303_0e8e938421
+#mailchimp_action: https://gmail.us4.list-manage.com/subscribe/post-json?u=0eda558109a704ce55cef6303&amp;id=0e8e938421
+#mailchimp_input: b_0eda558109a704ce55cef6303_0e8e938421
 
 # Author settings
 author:
   - name: Sourya Sen
-    bio: Sourya Sen is an audiovisual artist, creative coder and hardware hacker. His interests lie in generative visuals, hybrid instruments and finding emergent patterns at the intersection of art and technology, chaos and order, and noise and music. Coming from a background in traditional filmmaking and VJing, he’s currently expanding his practice to explore the intersecting points of behaviour that are away from traditional notions of audiovisual synchronicity, content creation and interaction using a host of tools, platforms and techniques.
+    bio: Audiovisual Artist / Creative Technologist / Video Post Production
     url: http://ayruos.com
 
 # Pagination settings

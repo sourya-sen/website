@@ -4,14 +4,15 @@ title: "Hybrid Video Synthesiser"
 date: 2019-07-15
 description:
 image: /assets/images/frontpanel.jpeg
+thumbnail: /assets/thumbs/hvs-thumb.jpg
 author: Sourya Sen
 tags:
   - openFrameworks
-  - Video Synthesis
-  - Performance
-  - Audiovisual
-  - Electronics
-  - Visuals
+  - video synthesis
+  - live performance
+  - audiovisual
+  - diy
+  - electronics
 ---
 
 As part of my Master's thesis, I designed and built a Eurorack compatible hybrid video synthesiser for audiovisual performance and composition.

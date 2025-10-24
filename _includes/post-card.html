@@ -1,12 +1,17 @@
 <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
   <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
-    {% if post.image %}
+    {% if post.thumbnail or post.image %}
       <figure class="posts__img">
-        <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/>
+        <img src="{{ post.thumbnail | default: post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/>
       </figure>
     {% endif %}
     <div>
-      <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong> — <span itemprop="description">{{ post.content | strip_html | truncatewords: 20, "" }} </span><strong itemprop="read">{{ "...continue reading" }}</strong> </h2>
+      <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong></h2>
+      {% if post.tags.size > 0 %}
+      <p class="posts__tags">
+        {{ post.tags | join: ", " }}
+      </p>
+      {% endif %}
       <!-- <h2 class="posts__text"><strong itemprop="read">{{ "read more" }}</strong></h2> -->
     </div>
   </a>

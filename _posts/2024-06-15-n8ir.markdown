@@ -1,0 +1,27 @@
+---
+layout: post
+title: "N8IR"
+date: 2024-06-15
+description:
+image: /assets/images/n8ir.jpg
+thumbnail: /assets/thumbs/n8ir-thumb.jpg
+author: Sourya Sen
+tags:
+  - hardware
+  - opensource
+  - audiovisual
+---
+
+N8IR is a standalone experimental audiovisual instrument and phrase generator, developed over three years of design and prototyping. The project explores the idea of a true audiovisual synthesizer — one where sound and image are generated and controlled together, rather than one accompanying the other.
+
+The instrument is powered by a Teensy microcontroller and CMOS logic chips, with a modular patchbay enabling flexible interconnections. Every control has both sonic and visual consequences, producing tightly synced patterns, shifting textures, and unexpected rhythms.
+
+Designed for immediacy and play, N8IR emphasizes hands-on experimentation over menu-diving or software abstraction. Its goal is to create a space for improvisation that is simple, tactile, and fun, while still allowing for complex emergent behaviors.
+
+Released as open-source, N8IR is intended as a tool for community use and further development, continuing its life beyond its initial design.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQQKkgaepmU?si=S0EXiGyDp394ndt5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+N8IR has been showcased at Eyemyth Festival 2025 and Music Hackspace. It has also been used for performance at Generative Degenerate: Bombay Edition and WIP AltFest Algorave: Bengaluru Edition.
+
+The open source release and relevant documentation can be found [here](https://github.com/sourya-sen/N8IR-AV).

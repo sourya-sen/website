@@ -4,14 +4,15 @@ title: "In the Cities (2023)"
 date: 2023-06-27
 description:
 image: /assets/images/ITC.png
+thumbnail: /assets/thumbs/ITC-thumb.jpg
 author: Sourya Sen
 tags:
-  - Album
-  - Modular
-  - Eurorack
-  - Music
-  - Ambient
-  - Experimental
+  - album
+  - modular
+  - eurorack
+  - music
+  - ambient
+  - experimental
 ---
 
 Conceptualised in the summer of 2019, In the Cities is part celebration and part retrospective inspired by my experiences of living and travelling across various cities over a period of time, exploring temporary living and moving on. 

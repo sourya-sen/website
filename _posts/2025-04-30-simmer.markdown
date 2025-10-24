@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Simmer"
+date: 2025-04-30
+description:
+image: /assets/images/simmer.jpg
+thumbnail: /assets/thumbs/simmer-thumb.jpg
+author: Sourya Sen
+tags:
+  - album
+  - eurorack
+  - experimental
+  - ambient
+---
+
+This one came from a strange place. Recorded in the thick, heavy heat of summer 2024, Simmer emerged from long improvisations on a single evolving patch—droning, fractured, sometimes weightless, sometimes dense. There was no big plan, just an attempt to stay in motion when inspiration felt distant.
+
+Listening back, making small edits, I found myself with this album. And now, I’m putting it out into the world.
+
+“Simmer” unfolds as an intimate sonic diary, capturing fleeting moments of introspection and resolve during the sweltering summer of 2024. These excerpts, born from hours of experimentation on a minimal Eurorack setup, resonate with a sense of restless creativity and emotional rawness. The stripped-down nature of the tools mirrors the artist’s battle with creative inertia, where each patch becomes a negotiation with unease—a balancing act between atmospheric weight and the flicker of inspiration.
+
+The pieces carry an organic, almost fragile quality, as if they could unravel at any moment. Droning undercurrents provide a grounding force, while warped melodies and fractured rhythms weave through dense, oppressive textures. This layered interplay creates a soundscape that feels both immediate and timeless. Each fragment stands as a testament to the resilience of creativity in the face of doubt, offering a cathartic release amidst the oppressive heat and haze.
+
+<iframe style="border: 0; width: 400px; height: 340px;" src="https://bandcamp.com/EmbeddedPlayer/album=1530656160/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://souryas.bandcamp.com/album/simmer">Simmer by Sourya Sen</a></iframe>

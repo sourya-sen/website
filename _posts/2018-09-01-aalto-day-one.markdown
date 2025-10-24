@@ -4,12 +4,13 @@ title: "Aalto Day One (2019)"
 date: 2018-09-01
 description:
 image: /assets/images/img-ado.jpg
+thumbnail: /assets/thumbs/ado-thumb.jpg
 author: Sourya Sen
 tags:
   - openFrameworks
-  - Graphic Design
-  - Generative Art
-  - Visuals
+  - graphic design
+  - generative
+  - visuals
 ---
 
 For branding of Aalto Day One 2019, I developed elements through a generative art practise which were subsequently used with traditional graphic design practises for the creatives of the event. These included posters and other promotional material, animated versions for displays as well as invites, stickers and more.

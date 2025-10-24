@@ -1,23 +1,22 @@
 ---
 layout: post
-title: "Live Performances (2019 - ongoing)"
+title: "Live Performances (2019 - 2020)"
 date: 2019-08-29
 description:
 image: /assets/images/img-synth-live.jpg
+thumbnail: /assets/thumbs/live-thumb.jpg
 author: Sourya Sen
 tags:
-  - Eurorack
-  - Modular
-  - Live Performance
-  - Sound
-  - Music
+  - eurorack
+  - modular
+  - live performance
 ---
 
 As an ongoing practise, I've been performing live electronic music as Oblique. As a constantly evolving process, each live set is unique and broadly falls within the genres of avant garde, ambient, experimental and musique concrete traditions.
 
 ![Aaniaalto](/assets/images/aaniaalto.jpg)
 
-As of September 2019, sets have been performed at Ääniaalto 2019 (Helsinki), Kontula Electronic 2019 (Helsinki), Reproduce Drones 29 (Kolkata) and Process ft. Oblique, Spiralynk and VvvvV (Kolkata).
+Sets have been performed at Ääniaalto 2019 (Helsinki), Kontula Electronic 2019 (Helsinki), Reproduce Drones 29 (Kolkata) and Process ft. Oblique, Spiralynk and VvvvV (Kolkata).
 
 Some of the livesets can be found below.
 

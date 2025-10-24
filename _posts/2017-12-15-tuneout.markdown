@@ -4,13 +4,12 @@ title: "TuneOut (2017)"
 date: 2017-12-15
 description:
 image: /assets/images/tuneOut.jpg
+thumbnail: /assets/thumbs/tuneOut-thumb.jpg
 author: Sourya Sen
 tags:
-  - Junction
-  - Hackathon
-  - Prototype
-  - Spotify
+  - hackathon
   - hardware
+  - prototype
 ---
 
 TuneOut is a Spotify-connected, old-school radio developed at the Junction 2017 hackathon in Finland. Using this, one can tune between playlists Spotify has curated for you, like Discover Weekly and Release Radar.

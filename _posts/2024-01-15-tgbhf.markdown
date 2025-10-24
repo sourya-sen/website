@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Live Visuals x The Ground Beneath Her Feet (Sandunes)"
+date: 2024-01-15
+description:
+image: /assets/images/tgbhf.jpg
+thumbnail: /assets/thumbs/tgbhf-thumb.jpg
+author: Sourya Sen
+tags:
+  - audiovisual
+  - live visuals
+  - vj
+---
+
+Live visuals for Sandunes' The Ground Beneath Her Feet album launch, in collaboration with Parag K. Mital.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wlRZZbUuy-c?si=cwoWeJDgD57ZmUXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

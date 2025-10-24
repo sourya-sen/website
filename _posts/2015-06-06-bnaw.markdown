@@ -4,10 +4,10 @@ title: "Berlin: Not At War (Audiovisual EP) (2015)"
 date: 2015-06-06
 description:
 image: /assets/images/bnaw.jpg
+thumbnail: /assets/thumbs/bnaw-thumb.jpg
 author: Sourya Sen
 tags:
-  - Audiovisual
-  - EP
+  - audiovisual
   - music
   - visuals
 ---

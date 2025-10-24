@@ -4,13 +4,13 @@ title: "Pattern Noise (2017)"
 date: 2017-12-15
 description:
 image: /assets/images/patternnoise.jpg
+thumbnail: /assets/thumbs/patternnoise-thumb.jpg
 author: Sourya Sen
 tags:
-  - Live Performance
-  - AV
-  - Visuals
+  - audiovisual
+  - live performance
   - openFrameworks
-  - hardware
+  - diy
   - experimental
 ---
 

@@ -4,9 +4,10 @@ title: "Generative Art (2019)"
 date: 2018-09-01
 description:
 image: /assets/images/genlines02.jpg
+thumbnail: /assets/thumbs/genarts-thumb.jpg
 tags:
   - openFrameworks
-  - Generative Art
+  - generative
 ---
 
 As part of independent studies in generative art, I was actively developing small animations in openFrameworks. Some of the sets are presented here with a brief description of the process behind the approaches.

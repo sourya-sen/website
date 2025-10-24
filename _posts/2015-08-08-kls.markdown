@@ -4,12 +4,10 @@ title: "Krunk Live Sessions"
 date: 2015-08-08
 description:
 image: /assets/images/kls2.jpg
+thumbnail: /assets/thumbs/kls-thumb.jpg
 author: Sourya Sen
 tags:
-  - Visuals
-  - VJing
-  - live
-  - Krunk
+  - live visuals
 ---
 
 Developed and performed the visuals for two live studio sessions called Krunk Live Sessions, collaborating with Madboy/Mink and Your Chin. These were broadcast on Pepsi MTV Indies.

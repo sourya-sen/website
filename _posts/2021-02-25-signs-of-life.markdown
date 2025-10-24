@@ -4,15 +4,15 @@ title: "Signs Of Life EP (2022)"
 date: 2021-02-25
 description:
 image: /assets/images/SoL_16x9_LR.jpg
+thumbnail: /assets/thumbs/SoL-thumb.jpg
 author: Sourya Sen
 tags:
-  - Audiovisual
-  - EP
-  - Modular
-  - Eurorack
-  - Music
-  - Ambient
-  - Experimental
+  - audiovisual
+  - modular
+  - eurorack
+  - music
+  - ambient
+  - experimental
 ---
 
 A four track EP and a four part film, Signs Of Life features ambient loops, microsound and musique concrete elements over evolving drones and melodic fragments, and journeys through the frame of mind, coming to terms with the state of personal existence.

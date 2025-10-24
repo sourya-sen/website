@@ -1,0 +1,23 @@
+---
+layout: post
+title: "One Beat Virtual IV (Fellowship)"
+date: 2023-10-01
+description:
+image: /assets/images/1b.jpg
+thumbnail: /assets/thumbs/1bthumb.jpg
+author: Sourya Sen
+tags:
+  - residency
+  - audiovisual
+  - eurorack
+  - unity
+  - installation
+---
+
+I was selected as a Fellow in OneBeat Virtual 4, a global program (July 10 – August 18, 2023) that convened 25 artists from around the world to explore assemblies — how people can meaningfully collaborate and connect through both virtual and physical modalities.
+
+OneBeat is an initiative of the U.S. Department of State’s Bureau of Educational and Cultural Affairs, committed to fostering cultural exchange through creative practice.
+
+Projects included working on multiple collaborative tracks, an interactive sound installation and a collaborative music video.
+
+A showcase of all the output can be found [here](https://1beat.org/onebeat-virtual-gallery/assemblies/).

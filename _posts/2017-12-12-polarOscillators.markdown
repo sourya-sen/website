@@ -4,12 +4,12 @@ title: "Polar Oscillators"
 date: 2017-12-12
 description:
 image: /assets/images/polarOsc.jpg
+thumbnail: /assets/thumbs/polarOsc-thumb.jpg
 author: Sourya Sen
 tags:
-  - Prototype
-  - openFrameworks
-  - generative
   - audiovisual
+  - generative
+  - openFrameworks
 ---
 
 An audiovisual semi-autonomous system of oscillators mapped in a polar space creating a drone bank as well as evolving visuals. It was developed during the Generative Media Coding workshop taught by Nuno Correia at Aalto Media Lab, 2017.

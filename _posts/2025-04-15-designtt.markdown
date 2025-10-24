@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Visual Design x Tarun Tahiliani Lookbook (The Little Button Films)"
+date: 2025-04-15
+description:
+image: /assets/images/tt.jpg
+thumbnail: /assets/thumbs/tt-thumb.jpg
+author: Sourya Sen
+tags:
+  - motion graphics
+  - visuals
+  - design
+---
+
+Visuals design and motion graphics for The Little Button Films x Tarun Tahiliani Lookbook.
+
+<iframe src="https://player.vimeo.com/video/1085282868?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tanvi x TT Directors Cut Prores Master V2"></iframe>
+
+The visuals were designed in Touchdesigner and After Effects, live triggered on a LED screen and captured in camera.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XQJ78KCBikw?si=8W8MTZXSi4ZBDTn2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Directed by Tanvi Gandhi / Produced by The Little Button Films
+

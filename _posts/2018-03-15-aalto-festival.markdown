@@ -4,12 +4,13 @@ title: "Aalto Festival (2018)"
 date: 2018-03-15
 description:
 image: /assets/images/img-af.jpg
+thumbnail: /assets/thumbs/af-thumb.jpg
 author: Sourya Sen
 tags:
-  - After Effects
-  - Animation
-  - Projection Mapping
-  - Visuals
+  - visuals
+  - animation
+  - projection mapping
+  - design
 ---
 
 I was brought into this project to animate the elements developed by [Anna Muchenikova](http://www.annamudesign.com/) and [Babi Brasileiro](http://babibrasileiro.com) as part of the creative team for Aalto Festival 2018. These animated assets were used on the event website (developed by Kokku, which was also featured as site of the day on [Mindsparkle Mag](https://mindsparklemag.com)) as well as in screens across various locations.

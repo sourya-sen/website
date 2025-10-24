@@ -4,11 +4,12 @@ title: "Live Visuals x Sandunes (2022-23)"
 date: 2023-06-05
 description:
 image: /assets/images/img-sandunes-01.jpg
+thumbnail: /assets/thumbs/sanduneslive-thumb.jpg
 author: Sourya Sen
 tags:
-  - Audiovisual
-  - Visuals
-  - Live Performance
+  - audiovisual
+  - live visuals
+  - vj
 ---
 
 Live visuals design and performance for Sandunes (Live).

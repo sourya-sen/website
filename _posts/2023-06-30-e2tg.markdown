@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Visuals x Ears to the Ground"
+date: 2023-06-30
+description:
+image: /assets/images/E2TG.jpg
+thumbnail: /assets/thumbs/E2TG-thumb.jpg
+author: Sourya Sen
+tags:
+  - visuals
+  - Touchdesigner
+  - live performance
+---
+
+Generative visuals for Ears to the Ground (Live) performance.
+
+Touchdesigner based audioreactive visuals with Dante based dynamic audio channel mixing. Ableton and SPAT for audio spatialisation.
+
+![touchdesigner](/assets/images/e2tg-000.jpg)
+![visuals](/assets/images/e2tg-001.jpg)
+![visuals](/assets/images/e2tg-002.jpg)
+
+"Ears to the Ground" is a transmmedia project by founders Krishna Jhaveri and Sanaya Ardeshir that explores the practice of listening through sound-forward installations, performances, and experiences. 
+
+Sound engineer and Networking: Div Row Kavi
